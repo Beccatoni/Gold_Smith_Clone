@@ -6,6 +6,11 @@ module.exports = {
       fontFamily: {
         'Roboto': ['Roboto'],
        
+      },
+      backgroundImage:{
+        'library':"url('/assets/Students-outside-the-CCA_19427-(1).jpg')",
+        'scholarship': "url('/assets/Scholarship_homepage.jpg')",
+        'vrLatham':"url('/assets/VRLatham_homepage.jpg')",
       }
     },
   },
